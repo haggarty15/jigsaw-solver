@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Jigsaw Solver</string>
+    <string name="capture_photo">Capture Photo</string>
+    <string name="import_photo">Import Photo</string>
+    <string name="analyze_puzzle">Analyze Puzzle</string>
+    <string name="camera_permission_required">Camera permission is required</string>
+    <string name="storage_permission_required">Storage permission is required</string>
+    <string name="analyzing">Analyzing puzzle...</string>
+    <string name="no_pieces_found">No puzzle pieces found</string>
+    <string name="pieces_detected">Pieces detected: %d</string>
+    <string name="border_pieces">Border pieces: %d</string>
+    <string name="interior_pieces">Interior pieces: %d</string>
+    <string name="view_matches">View Matches</string>
+    <string name="confidence">Confidence: %.1f%%</string>
+    <string name="piece">Piece %d</string>
+    <string name="matching_pieces">Matching Pieces</string>
+    <string name="back">Back</string>
+    <string name="retake">Retake</string>
+</resources>
